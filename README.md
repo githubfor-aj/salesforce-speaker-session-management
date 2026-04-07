@@ -97,13 +97,16 @@ Metadata can also be retrieved or deployed selectively using `package.xml`.
 ---
 ## ✅ Image Results
 
-### Speaker View
-![Speaker View](images/image1.png)
+### Search Speaker/Skill and View Speaker Availability
+
+![Speaker View](images/image2.png)
 
 ### Session Availability and Colorful Calendar
-![Session Availability and Colorful Calendar](images/image2.png)
+
+![Session Availability and Colorful Calendar](images/image1.png)
 
 ### Differentiate overlap/booking status with Colors and Legend
+
 ![Differentiate Availability with Colors and Legend](images/image3.png)
 
 ---
