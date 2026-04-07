@@ -115,6 +115,11 @@ Metadata can also be retrieved or deployed selectively using `package.xml`.
 
 **Ankem Jagadeeswari**
      
+     👤 About the Author
+
+With 5 Salesforce certifications and 2.10 years of hands-on experience in Salesforce configuration, customization, integration, and deployment, I combine technical expertise with a proactive approach to problem-solving. I prioritize tasks effectively, quickly research and implement solutions, and contribute confidently to delivering innovative and impactful Salesforce solutions.
+
+Connect with me : [Trailblazer](https://www.salesforce.com/trailblazer/jankem1)
 
 ---
 
