@@ -2,9 +2,11 @@
 
 ## 📌 Overview
 
-It implements a **Speaker Session Management** system using  **Apex**, and **Lightning Web Components (LWC)**, etc.,.
+# 💡 Business Use Case
 
-The application allows users to:
+Conferences and events often have multiple speakers and sessions happening simultaneously. Organizers need a system to manage speaker assignments efficiently, avoid scheduling conflicts, and ensure every session is staffed appropriately. This solution provides a clear way to track speakers, their expertise, and available session slots, making event planning smooth and error-free.
+
+This application allows users to:
 
 * Manage Speakers and Sessions
 * Search speakers by name and speciality
@@ -93,6 +95,9 @@ sfdx force:source:deploy -p force-app
 Metadata can also be retrieved or deployed selectively using `package.xml`.
 
 ---
+## ✅ Image Results
+
+Please find the Speaker Mangaer Reference pdf for visualization of output.
 
 ---
 
